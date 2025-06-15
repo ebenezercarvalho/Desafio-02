@@ -6,7 +6,7 @@ De acordo com os dados analisados, podemos extrair as seguintes informações:
 
 A idade possui alguma relação com a evasão de clientes. Apesar da proporção de clientes maiores que 65 anos ser baixa, o número de clientes nesta categoria que cancela contratos é relativamente alto, mostrando que é possível criar uma campanha de fidelização para este público.
 
-![42dc37ea26cd4573b88f227b6089d389](E:\Documentos\Cursos\Alura\ONE\Desafio-02\img\42dc37ea-26cd-4573-b88f-227b6089d389.png)
+![42dc37ea26cd4573b88f227b6089d389](img\42dc37ea-26cd-4573-b88f-227b6089d389.png)
 
 ---
 
