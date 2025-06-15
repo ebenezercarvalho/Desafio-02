@@ -33,7 +33,7 @@ O **tempo de contrato** é a variável mais importante para compreendermos a eva
     ![9c7431df5fe24986a901daaed9fe8d7a](E:\Documentos\Cursos\Alura\ONE\Desafio-02\img\9c7431df-5fe2-4986-a901-daaed9fe8d7a.png)
 
 * O mesmo ocorre com o **serviço de suporte técnico**.
-    ![3f256bcd0a6642e2b9e8a2bb73a03452](E:\Documentos\Cursos\Alura\ONE\Desafio-02\img\3f256bcd-0a66-42e2-b9e8-a2bb73a03452.png)
+    ![3f256bcd0a6642e2b9e8a2bb73a03452]([E:\Documentos\Cursos\Alura\ONE\Desafio-02\img\3f256bcd-0a66-42e2-b9e8-a2bb73a03452.png](https://github.com/ebenezercarvalho/Desafio-02/blob/main/img/3f256bcd-0a66-42e2-b9e8-a2bb73a03452.png))
 
 ---
 
